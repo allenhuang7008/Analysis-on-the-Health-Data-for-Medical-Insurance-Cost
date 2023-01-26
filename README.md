@@ -1,5 +1,5 @@
 # Analysis-on-the-Health-Data-for-Medical-Insurance-Cost
-DS-GA 1001 Capstone Project\n
+DS-GA 1001 Capstone Project  
 By: Jin Choi (jkc9890) Shih-Lun Huang (sh7008) Wei-Han Hsu (wh2405)
 
 # Abstract
